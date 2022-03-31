@@ -1,0 +1,15 @@
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\obj\Debug\net6.0\AI_HW2.csproj.AssemblyReference.cache
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\obj\Debug\net6.0\AI_HW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\obj\Debug\net6.0\AI_HW2.AssemblyInfoInputs.cache
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\obj\Debug\net6.0\AI_HW2.AssemblyInfo.cs
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\obj\Debug\net6.0\AI_HW2.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\bin\Debug\net6.0\AI_HW2.exe
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\bin\Debug\net6.0\AI_HW2.deps.json
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\bin\Debug\net6.0\AI_HW2.runtimeconfig.json
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\bin\Debug\net6.0\AI_HW2.dll
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\bin\Debug\net6.0\ref\AI_HW2.dll
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\bin\Debug\net6.0\AI_HW2.pdb
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\obj\Debug\net6.0\AI_HW2.dll
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\obj\Debug\net6.0\ref\AI_HW2.dll
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\obj\Debug\net6.0\AI_HW2.pdb
+D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\obj\Debug\net6.0\AI_HW2.genruntimeconfig.cache

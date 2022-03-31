@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AI_HW2
+build_property.ProjectDir = D:\College Stuff\Spring 2022 (Senior)\CS3030 - Intro to AI\repos for homeworks\HW3\AI_HW3\AI_HW2\
