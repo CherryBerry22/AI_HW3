@@ -2,10 +2,27 @@
 {
     class HW2
     {
+        class GameNode
+        {
+            private char[] gameState = new char[9];
+            int ply;
+            int hValue;
+
+            public GameNode(char[] gameState, int depth, int hValue)
+            {
+                this.gameState = gameState;
+                this.ply = depth;
+                this.hValue = hValue;
+            }
+        }
+
+
         private static char[] board;
         public static void Main()
         {
             board = new char[9] { 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O' };
+
+            GameNode root = new GameNode(board, 1, 0);
 
             printBoard(board);
             Console.WriteLine();
@@ -147,6 +164,15 @@
             // Check for 3 in a row diagonally (NOT SURE IF NEEDED)
 
             return isWin;
+        }
+
+        private static int WinPaths(char[] board, char player)
+        {
+            int winPathsWhite = 0;
+            int winPathsBlack = 0;
+
+
+            return winPathsBlack - winPathsWhite;
         }
     }
 

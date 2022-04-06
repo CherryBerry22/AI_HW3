@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ryan\\.nuget\\packages\\": {},
+    "C:\\Users\\ryanm\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\College Stuff\\Spring 2022 (Senior)\\CS3030 - Intro to AI\\repos for homeworks\\HW3\\AI_HW3\\AI_HW2\\AI_HW2.csproj",
+      "projectUniqueName": "C:\\Users\\ryanm\\Desktop\\Everything\\College Stuff\\Spring 2022 (Senior)\\CS3030 - Intro to AI\\HW 3\\AI_HW3\\AI_HW2\\AI_HW2.csproj",
       "projectName": "AI_HW2",
-      "projectPath": "D:\\College Stuff\\Spring 2022 (Senior)\\CS3030 - Intro to AI\\repos for homeworks\\HW3\\AI_HW3\\AI_HW2\\AI_HW2.csproj",
-      "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-      "outputPath": "D:\\College Stuff\\Spring 2022 (Senior)\\CS3030 - Intro to AI\\repos for homeworks\\HW3\\AI_HW3\\AI_HW2\\obj\\",
+      "projectPath": "C:\\Users\\ryanm\\Desktop\\Everything\\College Stuff\\Spring 2022 (Senior)\\CS3030 - Intro to AI\\HW 3\\AI_HW3\\AI_HW2\\AI_HW2.csproj",
+      "packagesPath": "C:\\Users\\ryanm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ryanm\\Desktop\\Everything\\College Stuff\\Spring 2022 (Senior)\\CS3030 - Intro to AI\\HW 3\\AI_HW3\\AI_HW2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ryanm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
