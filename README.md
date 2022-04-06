@@ -6,7 +6,7 @@ Your goal is to design an agent that can play the version of the Three-men’s M
 described below:
 
 The game board has 3 horizontal lines, 3 vertical lines and 2 diagonal lines as shown below.
-3menMorris.png  
+![image](https://user-images.githubusercontent.com/40703691/161882117-fb00e082-72cb-46f2-aa89-5ae88e571214.png)
 
 Each player has three pieces at the start of the game.
 The board is empty to begin the game, and players take turns placing one piece on each turn. A piece can only be placed on an empty intersection.
